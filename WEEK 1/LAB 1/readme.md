@@ -16,7 +16,7 @@ Below is an attached image of the final result
 
 3. Create a user who is an admin for the root user
 
-I serached for the IAM icon, then followed the the process to create user.
+I searched for the IAM icon, then followed the the process to create user.
 
 Below is an attatched images of the process followed
 
