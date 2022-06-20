@@ -35,8 +35,19 @@ I then performe a clean operation by clearing all operations performed in the IA
 
 Below are screenshoot for final output of the user group created and their individual users.
 
-![Admin group](
+![Admin group](Image/Admin.jpg)
 
+![Admin group](Image/Admin%202.jpg)
+
+![Expert group](Image/Expert%20group%201.jpg)
+
+![Expert group](Image/Expert%20group%202.jpg)
+
+![Support group](Image/Support%20group%201.jpg)
+
+![Support group](Image/Support%20group%202.jpg)
+
+![Finance group](Image/Finance%20group.jpg)
 
 
 
