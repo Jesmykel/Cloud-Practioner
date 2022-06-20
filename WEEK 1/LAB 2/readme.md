@@ -35,6 +35,10 @@ I then performe a clean operation by clearing all operations performed in the IA
 
 Below are screenshoot for final output of the user group created and their individual users.
 
+![Admin group](
+
+
+
 
 Guides:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
