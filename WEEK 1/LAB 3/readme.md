@@ -98,8 +98,11 @@ I browse through the pages. I then notice that i can display costs, reports, and
 Below is a scrrenshoot of the FinanceManager Account and FinanceUser Account
 
 FinanceManager
+  ![financemanager](Image/FinanceManager.jpg)
 
 FinanceUser
+  
+  ![financeuser](Image/FinanceUser.jpg)
 
 
 Note:
