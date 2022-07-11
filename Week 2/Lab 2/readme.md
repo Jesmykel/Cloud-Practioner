@@ -22,11 +22,17 @@ Under Set budget amount, for Period, I choose how often I want the budget to res
 
 For Budget effective date, I choose Recurring budget for a budget that resets after the budget period.
 
+![Cost Budget](Images/Screenshot%201.jpg)
+
 For Budgeting method, I selected the way that I want my budget amount to be determined each budget period:
 
 I selected "Fixed"
 
+![Cost Budget](Images/Screenshot%202.jpg)
+
 Under Budget scoping - for Advanced options, I choose Use amortized costs
+
+![Cost Budget](Images/Screenshot%203.jpg)
 
 Then choose Next.
 
@@ -39,6 +45,11 @@ Next to the amount, I choose % of budgeted amount to be notiﬁed when your cost
 Next to the threshold, I choose Actual to create an alert for actual spend. 
 
 Under Notification preferences - for Email recipients, I entered the email addresses that I want the alert to notify. 
+
+NB: I set two alert, one at 25% and the other at 80%
+
+
+![Cost Budegt](Images/SharedScreenshot%204.jpg)
 
 Then choose Next.
 
