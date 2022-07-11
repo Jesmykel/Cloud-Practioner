@@ -34,7 +34,7 @@ On the navigation pane, I choose Bills.
 
 For Date, I choose the month of the bill I want to work with.
 
-I then Choose Download CSV to download a comma-separated variable file or choose Print.
+I then Choose Download CSV to download a comma-separated variable file 
 
 
 
